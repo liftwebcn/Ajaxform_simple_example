@@ -1,0 +1,6 @@
+#Source Hashes
+#Fri Apr 20 14:10:02 CDT 2012
+src/main/scala/code/snippet/HelloWorld.scala=1501d439869e932b723c930fe207babc90e49fb1
+src/main/scala/bootstrap/liftweb/Boot.scala=130ca4b9f94095bed5ea2b1f15e232100ff1f542
+src/main/scala/code/lib/DependencyFactory.scala=e5d94ad2d69afe24876734d3cc8549a5f3a7c7fd
+src/main/scala/code/snippet/Ajaxform.scala=64498693c791599a98ee4d8a1e7e9c857bba07e2

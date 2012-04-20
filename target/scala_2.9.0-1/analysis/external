@@ -1,0 +1,7 @@
+#External Dependencies
+#Fri Apr 20 14:10:02 CDT 2012
+/Users/readman/Desktop/Ajax_Example/lib_managed/scala_2.9.0-1/compile/lift-webkit_2.9.0-1-2.4.jar=src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala
+/Users/readman/Desktop/Ajax_Example/lib_managed/scala_2.9.0-1/compile/lift-common_2.9.0-1-2.4.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/bootstrap/liftweb/Boot.scala
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala
+/Users/readman/Desktop/Ajax_Example/lib_managed/scala_2.9.0-1/compile/lift-util_2.9.0-1-2.4.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala
+/Users/readman/Desktop/Ajax_Example/project/boot/scala-2.9.0-1/lib/scala-library.jar=src/main/scala/code/snippet/HelloWorld.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/snippet/Ajaxform.scala
